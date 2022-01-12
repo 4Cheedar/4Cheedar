@@ -1,16 +1,36 @@
-### Hi there 👋
+### 🤔 | Prazer, Iago Coelho Santos
 
-<!--
-**4Cheedar/4Cheedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~javascript
+🐊 | ------------------------------ |  
+- Programador FrontEnd. 
+- Desenvolvedor De Bots para Discord.
+- Desenvolvedor De Sites Web.
+🐊 | ------------------------------ | 
+              (•◡•) /
+              
+if(message.reader.continue){
+  return console.log("Para de Ler kk.")
+}
+~~~
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4Cheedar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Cheedar&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+  
+~~~javascript
+                                                          (͡° ͜ʖ ͡°)
+~~~
+  
+<div align="center">
+ <img src="https://i.ibb.co/yP3sPyg/dino.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  <a href="https://www.instagram.com/_iaguc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5MahrzwMbz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ </div>
+  
+   ![Snake animation](https://github.com/4Cheedar/4Cheedar/blob/output/github-contribution-grid-snake.svg)
