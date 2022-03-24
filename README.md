@@ -18,9 +18,7 @@ if(message.reader.continue){
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Cheedar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </a>
-~~~javascript
-                                                          (͡° ͜ʖ ͡°)
-~~~
+
   
 <div align="center">
  <img src="https://i.ibb.co/yP3sPyg/dino.gif">
