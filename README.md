@@ -15,6 +15,7 @@ Você pode me encontrar em algumas plataformas de jogos:
 
 ## 💻 Ambientes de Desenvolvimento
 
+Durante a criação de projetos, eu utilizo as seguintes IDEs e editores:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
