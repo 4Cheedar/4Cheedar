@@ -40,12 +40,8 @@ Minha jornada tecnológica é marcada por uma série de ferramentas poderosas qu
 - ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Animação da Snake](https://github.com/4Cheedar/4Cheedar/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Vamos Conversar!
 
 Estou sempre pronto para uma boa conversa ou colaboração. Sinta-se à vontade para entrar em contato comigo para discutir projetos, ideias ou simplesmente compartilhar histórias.
-
-![Animação da Snake](https://github.com/4Cheedar/4Cheedar/blob/output/github-contribution-grid-snake.svg)
 
 *Última atualização: Agosto de 2023*
