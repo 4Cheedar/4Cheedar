@@ -205,12 +205,12 @@ Nos primeiros passos da jornada também ficaram uma loja de estoque em Electron,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4Cheedar&show_icons=true&hide_border=false&border_color=8b5e34&bg_color=f4ecd8&title_color=5c3a21&icon_color=8b5e34&text_color=3e2723&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=4Cheedar&show_icons=true&hide_border=false&border_color=8b5e34&bg_color=f4ecd8&title_color=5c3a21&icon_color=8b5e34&text_color=3e2723&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Cheedar&hide_border=false&border=8b5e34&background=f4ecd8&ring=c9a227&fire=8b5e34&currStreakLabel=5c3a21&sideNums=3e2723&dates=5c3a21&currStreakNum=3e2723&sideLabels=5c3a21" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Cheedar&layout=compact&hide_border=false&border_color=8b5e34&bg_color=f4ecd8&title_color=5c3a21&text_color=3e2723&langs_count=8" height="185"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=4Cheedar&layout=compact&hide_border=false&border_color=8b5e34&bg_color=f4ecd8&title_color=5c3a21&text_color=3e2723&langs_count=8" height="185"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=4Cheedar&theme=oldie&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://trophy.benkou.dev/?username=4Cheedar&theme=oldie&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
